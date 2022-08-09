@@ -49,7 +49,7 @@ class Car extends VehicleModule {
 }
 
 
-let myCar = new Car('mercury', 'rad_sedan', '2002', 'white', 50000)
+let myCar = new Car('mercury', 'sedan', '2020', 'red', 50000)
 
 myCar.start()
 myCar.loadPassenger(5)
